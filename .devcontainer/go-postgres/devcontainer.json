@@ -8,7 +8,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"mtxr.sqltools"
+				"mtxr.sqltools",
+				"mtxr.sqltools-driver-pg"
 			]
 		}
 	}
